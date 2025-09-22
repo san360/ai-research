@@ -1,0 +1,8 @@
+.venv
+.pytest_cache
+__pycache__/
+deep_research_ui/__pycache__/
+deep_research_ui/reports/__pycache__/
+deep_research_ui/services/__pycache__/ 
+deep_research_ui/utils/__pycache__/
+deep_research_ui/telemetry/__pycache__/
