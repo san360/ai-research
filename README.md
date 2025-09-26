@@ -15,6 +15,10 @@ A Streamlit-based web application that provides an interactive interface for Azu
 - 📥 **Download Capabilities**: Download both the final report and progress logs
 - 🔍 **OpenTelemetry Integration**: Full telemetry and tracing for observability
 
+## Acknowledgments
+
+💖 **Special thanks to [sjuratov](https://github.com/sjuratov) for building the initial codebase and foundational ideas!** This project is built upon the excellent work from the [azure-ai-foundry-agents-deep-research](https://github.com/sjuratov/azure-ai-foundry-agents-deep-research) repository. We are deeply grateful for the inspiration and solid foundation provided! 🙏✨
+
 ## Project Structure
 
 ```
